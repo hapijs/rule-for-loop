@@ -1,10 +1,14 @@
-# hapi-for-you
+<a href="http://hapijs.com"><img src="https://github.com/hapijs/assets/blob/master/images/family.svg" width="180px" align="right" /></a>
 
-[![Current Version](https://img.shields.io/npm/v/hapi-for-you.svg)](https://www.npmjs.org/package/hapi-for-you)
-[![Build Status via Travis CI](https://travis-ci.org/continuationlabs/hapi-for-you.svg?branch=master)](https://travis-ci.org/continuationlabs/hapi-for-you)
-![Dependencies](http://img.shields.io/david/continuationlabs/hapi-for-you.svg)
+# rule-for-loop
 
-hapi style guide ESLint rule dealing with for loops. This rule enforces the following:
+hapi style guide ESLint rule dealing with for loops.
+
+[![Build Status](https://travis-ci.org/hapijs/rule-for-loop.svg?branch=master)](https://travis-ci.org/hapijs/rule-for-loop)
+
+## About
+
+This rule enforces the following:
 
 - Restrict iterator variable names. `for` loop iterator variables should be named `i`. Nested loops should use the variables `j`, `k`, and so on.
 - Restrict loop nesting.  You can restrict the maximum nesting of `for` loops. By default, this limit is three.

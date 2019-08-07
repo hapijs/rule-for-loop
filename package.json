@@ -1,6 +1,6 @@
 {
   "name": "@hapi/rule-for-loop",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ESLint rule to enforce for loop syntax",
   "main": "lib/index.js",
   "repository": "https://github.com/hapijs/rule-for-loop.git",

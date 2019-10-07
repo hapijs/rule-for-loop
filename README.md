@@ -11,6 +11,6 @@
 ## Useful resources
 
 - [Documentation and API](https://hapi.dev/family/rule-for-loop/)
-- [Versions status](https://hapi.dev/resources/status/#rule-for-loop)
+- [Versions status](https://hapi.dev/resources/status/#rule-for-loop) (builds, dependencies, node versions, licenses, eol)
 - [Project policies](https://hapi.dev/policies/)
 - [Free and commercial support options](https://hapi.dev/support/)

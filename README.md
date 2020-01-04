@@ -12,5 +12,6 @@
 
 - [Documentation and API](https://hapi.dev/family/rule-for-loop/)
 - [Versions status](https://hapi.dev/resources/status/#rule-for-loop) (builds, dependencies, node versions, licenses, eol)
+- [Changelog](https://hapi.dev/family/rule-for-loop/changelog/)
 - [Project policies](https://hapi.dev/policies/)
 - [Free and commercial support options](https://hapi.dev/support/)
